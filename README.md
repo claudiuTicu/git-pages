@@ -1,2 +1,2 @@
 # git-pages
-The personal Profile on git hub.
+The git hub pages profile.
